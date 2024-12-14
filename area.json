@@ -1,0 +1,38 @@
+[
+    {
+        "area": 1,
+        "area_name": "北海道地方"
+    },
+    {
+        "area": 2,
+        "area_name": "東北地方"
+    },
+    {
+        "area": 3,
+        "area_name": "関東地方"
+    },
+    {
+        "area": 4,
+        "area_name": "中部地方"
+    },
+    {
+        "area": 5,
+        "area_name": "近畿地方"
+    },
+    {
+        "area": 6,
+        "area_name": "中国地方"
+    },
+    {
+        "area": 7,
+        "area_name": "四国地方"
+    },
+    {
+        "area": 8,
+        "area_name": "九州地方"
+    },
+    {
+        "area": 9,
+        "area_name": "沖縄地方"
+    }
+]
